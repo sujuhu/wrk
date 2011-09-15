@@ -1,0 +1,4 @@
+---- RtlIpv4AddressToStringExT Matches (3 in 3 files) ----
+Add2stra.c (h:\source\wrk1.2\base\ntos\rtl):#define RtlIpv4AddressToStringExT RtlIpv4AddressToStringExA
+Add2strt.h (h:\source\wrk1.2\base\ntos\rtl):RtlIpv4AddressToStringExT(
+Add2strw.c (h:\source\wrk1.2\base\ntos\rtl):#define RtlIpv4AddressToStringExT RtlIpv4AddressToStringExW
